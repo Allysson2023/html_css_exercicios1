@@ -1,5 +1,5 @@
 Exercicios 
-<!-- 💻 Desafio 1 – Página de Apresentação Simples
+💻 Desafio 1 – Página de Apresentação Simples
     Crie uma página HTML com as seguintes informações:
     ✅ Requisitos:
     Título da página: "Minha Primeira Página"
@@ -10,4 +10,4 @@ Exercicios
     Estilize com CSS:
     Altere a cor de fundo da página.
     Altere a cor e fonte dos textos.
-    Coloque uma borda em volta da imagem. -->
+    Coloque uma borda em volta da imagem.
